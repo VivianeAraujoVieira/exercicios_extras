@@ -5,7 +5,7 @@ EX:
     A SACADA DA CASA;
     A TORRE DA DERROTA;
     ANOTARAM A DATA DA MARATONA;
-    LOBO AMA BOLO;
+    LOBO AMA O BOLO;
     """
 
 FRASE = str(input("Digite uma frase: ")).upper()
